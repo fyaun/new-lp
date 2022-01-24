@@ -1650,6 +1650,7 @@ tr:not(:first-child) .price-table td {
 @media (max-width: 767px) {
   .contact-item-input {
     width: 100%;
+	margin-right: 30px; 
   }
 }
 
