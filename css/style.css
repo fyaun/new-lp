@@ -1984,6 +1984,11 @@ tr:not(:first-child) .price-table td {
     text-align: center;
     padding: 10px;
   }
+	
+.footer-nav {
+text-align: center;
+	margin: 0 auto;
+	}
 }
 
 .footer-sns-list {
